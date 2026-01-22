@@ -68,7 +68,7 @@
     "jquery": "^3.7",
     "jschardet": "1.6.0",
     "json-rpc2": "^2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.23",
     "memoizee": "0.x.x",
     "mkdirp": "*",
     "mousetrap": "~1.6.5",
